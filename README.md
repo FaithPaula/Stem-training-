@@ -9,4 +9,5 @@ Basic calculation
 Building complex calculator
 Control flow
 Comparisons
+Strings in python
 
