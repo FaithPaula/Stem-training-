@@ -9,5 +9,17 @@ Basic calculation
 Building complex calculator
 Control flow
 Comparisons
-Strings in python
+Strings operation
+## Day four
+control flow
+if statement
+else,elif
+while loops
+Break,continue?
+for loops
+lists
+indexes
+strings as list??
+        OR No?
+Matrixes
 
