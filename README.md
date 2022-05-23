@@ -22,4 +22,6 @@ indexes
 strings as list??
         OR No?
 Matrixes
-
+## Day five
+for loops
+ranges
