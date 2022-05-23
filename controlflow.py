@@ -16,12 +16,15 @@ else :
 
 grade = int(input("write student score: "))
 if grade >= 80 and grade <=100:
-    print("Student got an A")
-    grade >= 70 and grade <= 80;
-    print("Student got a B")
-
-    grade >= 60 and grade <= 70;
-    print("Student got a C")
+         print("Student got an A")
+elif grade >= 70 and grade < 80 :
+         print("Student got a B")
+elif grade >= 60 and grade < 70 :
+         print("Student got a C")
+elif grade >=50 and grade <60 :
+         print("Student got a D")  
+elif grade >=40 and grade <50 :
+         print("Student got an E") 
 
 
 
