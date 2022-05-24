@@ -1,7 +1,7 @@
-# Stem-training-
+# Stem-training
 ## Day One
-Learning markdown
-Installing python
+- Learning markdown
+- Installing python
 ## Day Two
 Manipulating data types
 Basic calculation
