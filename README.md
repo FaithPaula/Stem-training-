@@ -34,3 +34,5 @@
 - remove
 - pop
 - clear
+## Day eight
+- Dictionaries
