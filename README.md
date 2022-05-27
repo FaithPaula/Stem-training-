@@ -34,5 +34,12 @@
 - remove
 - pop
 - clear
+## Day seven
+- Kuccps application
 ## Day eight
 - Dictionaries
+- Return
+- errors
+- def
+- functions
+- editing text
