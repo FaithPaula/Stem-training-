@@ -46,5 +46,5 @@
 ## Day nine
 - object oriented programming
 ## Day ten
-- Graphic user Interface manipulation
+- Graphic user Interface creating and editing buttons
 - inheritance in OOP
